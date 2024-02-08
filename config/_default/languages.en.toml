@@ -9,16 +9,15 @@ title = "Jordan Vianna"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/jordan.jpeg"
-  image = "img/jordan.jpeg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
+  # name = "Your name here"
+  image = "img/jordan.jpeg"
 #   headline = "I'm only human"
-#   bio = "A little bit about you"
+  bio = "Game Designer & Developer"
   links = [
     { email = "mailto:jordan@jordanvs.xyz" },
     { link = "https://jordanvs.xyz" },
